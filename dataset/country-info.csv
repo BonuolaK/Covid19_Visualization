@@ -1,0 +1,253 @@
+code,iso_code,country,capital,size,population,continent
+AD,AND,Andorra,Andorra la Vella,468,"77,006",EU
+AE,ARE,United Arab Emirates,Abu Dhabi,"82,880.00","9,630,959",AS
+AF,AFG,Afghanistan,Kabul,"647,500.00","37,172,386",AS
+AG,ATG,Antigua and Barbuda,St. John's,443,"96,286",NA
+AI,AIA,Anguilla,The Valley,102,"13,254",NA
+AL,ALB,Albania,Tirana,"28,748.00","2,866,376",EU
+AM,ARM,Armenia,Yerevan,"29,800.00","2,951,776",AS
+AN,ANT,Netherlands Antilles,Willemstad,960,"300,000",NA
+AO,AGO,Angola,Luanda,"1,246,700.00","30,809,762",AF
+AQ,ATA,Antarctica,,"14,000,000.00",0,AN
+AR,ARG,Argentina,Buenos Aires,"2,766,890.00","44,494,502",SA
+AS,ASM,American Samoa,Pago Pago,199,"55,465",OC
+AT,AUT,Austria,Vienna,"83,858.00","8,847,037",EU
+AU,AUS,Australia,Canberra,"7,686,850.00","24,992,369",OC
+AW,ABW,Aruba,Oranjestad,193,"105,845",NA
+AX,ALA,Åland,Mariehamn,"1,580.00","26,711",EU
+AZ,AZE,Azerbaijan,Baku,"86,600.00","9,942,334",AS
+BA,BIH,Bosnia and Herzegovina,Sarajevo,"51,129.00","3,323,929",EU
+BB,BRB,Barbados,Bridgetown,431,"286,641",NA
+BD,BGD,Bangladesh,Dhaka,"144,000.00","161,356,039",AS
+BE,BEL,Belgium,Brussels,"30,510.00","11,422,068",EU
+BF,BFA,Burkina Faso,Ouagadougou,"274,200.00","19,751,535",AF
+BG,BGR,Bulgaria,Sofia,"110,910.00","7,000,039",EU
+BH,BHR,Bahrain,Manama,665,"1,569,439",AS
+BI,BDI,Burundi,Gitega,"27,830.00","11,175,378",AF
+BJ,BEN,Benin,Porto-Novo,"112,620.00","11,485,048",AF
+BL,BLM,Saint Barthélemy,Gustavia,21,"8,450",NA
+BM,BMU,Bermuda,Hamilton,53,"63,968",NA
+BN,BRN,Brunei,Bandar Seri Begawan,"5,770.00","428,962",AS
+BO,BOL,Bolivia,Sucre,"1,098,580.00","11,353,142",SA
+BQ,BES,"Bonaire, Sint Eustatius, and Saba",,328,"18,012",NA
+BR,BRA,Brazil,Brasilia,"8,511,965.00","209,469,333",SA
+BS,BHS,Bahamas,Nassau,"13,940.00","385,640",NA
+BT,BTN,Bhutan,Thimphu,"47,000.00","754,394",AS
+BV,BVT,Bouvet Island,,49,0,AN
+BW,BWA,Botswana,Gaborone,"600,370.00","2,254,126",AF
+BY,BLR,Belarus,Minsk,"207,600.00","9,485,386",EU
+BZ,BLZ,Belize,Belmopan,"22,966.00","383,071",NA
+CA,CAN,Canada,Ottawa,"9,984,670.00","37,058,856",NA
+CC,CCK,Cocos [Keeling] Islands,West Island,14,628,AS
+CD,COD,DR Congo,Kinshasa,"2,345,410.00","84,068,091",AF
+CF,CAF,Central African Republic,Bangui,"622,984.00","4,666,377",AF
+CG,COG,Congo Republic,Brazzaville,"342,000.00","5,244,363",AF
+CH,CHE,Switzerland,Bern,"41,290.00","8,516,543",EU
+CI,CIV,Ivory Coast,Yamoussoukro,"322,460.00","25,069,229",AF
+CK,COK,Cook Islands,Avarua,240,"21,388",OC
+CL,CHL,Chile,Santiago,"756,950.00","18,729,160",SA
+CM,CMR,Cameroon,Yaounde,"475,440.00","25,216,237",AF
+CN,CHN,China,Beijing,"9,596,960.00","1,392,730,000",AS
+CO,COL,Colombia,Bogota,"1,138,910.00","49,648,685",SA
+CR,CRI,Costa Rica,San Jose,"51,100.00","4,999,441",NA
+CS,SCG,Serbia and Montenegro,Belgrade,"102,350.00","10,829,175",EU
+CU,CUB,Cuba,Havana,"110,860.00","11,338,138",NA
+CV,CPV,Cabo Verde,Praia,"4,033.00","543,767",AF
+CW,CUW,Curaçao,Willemstad,444,"159,849",NA
+CX,CXR,Christmas Island,Flying Fish Cove,135,"1,500",OC
+CY,CYP,Cyprus,Nicosia,"9,250.00","1,189,265",EU
+CZ,CZE,Czechia,Prague,"78,866.00","10,625,695",EU
+DE,DEU,Germany,Berlin,"357,021.00","82,927,922",EU
+DJ,DJI,Djibouti,Djibouti,"23,000.00","958,920",AF
+DK,DNK,Denmark,Copenhagen,"43,094.00","5,797,446",EU
+DM,DMA,Dominica,Roseau,754,"71,625",NA
+DO,DOM,Dominican Republic,Santo Domingo,"48,730.00","10,627,165",NA
+DZ,DZA,Algeria,Algiers,"2,381,740.00","42,228,429",AF
+EC,ECU,Ecuador,Quito,"283,560.00","17,084,357",SA
+EE,EST,Estonia,Tallinn,"45,226.00","1,320,884",EU
+EG,EGY,Egypt,Cairo,"1,001,450.00","98,423,595",AF
+EH,ESH,Western Sahara,El-Aaiun,"266,000.00","273,008",AF
+ER,ERI,Eritrea,Asmara,"121,320.00",0,AF
+ES,ESP,Spain,Madrid,"504,782.00","46,723,749",EU
+ET,ETH,Ethiopia,Addis Ababa,"1,127,127.00","109,224,559",AF
+FI,FIN,Finland,Helsinki,"337,030.00","5,518,050",EU
+FJ,FJI,Fiji,Suva,"18,270.00","883,483",OC
+FK,FLK,Falkland Islands,Stanley,"12,173.00","2,638",SA
+FM,FSM,Micronesia,Palikir,702,"112,640",OC
+FO,FRO,Faroe Islands,Torshavn,"1,399.00","48,497",EU
+FR,FRA,France,Paris,"547,030.00","66,987,244",EU
+GA,GAB,Gabon,Libreville,"267,667.00","2,119,275",AF
+GB,GBR,United Kingdom,London,"244,820.00","66,488,991",EU
+GD,GRD,Grenada,St. George's,344,"111,454",NA
+GE,GEO,Georgia,Tbilisi,"69,700.00","3,731,000",AS
+GF,GUF,French Guiana,Cayenne,"91,000.00","195,506",SA
+GG,GGY,Guernsey,St Peter Port,78,"65,228",EU
+GH,GHA,Ghana,Accra,"239,460.00","29,767,108",AF
+GI,GIB,Gibraltar,Gibraltar,6.5,"33,718",EU
+GL,GRL,Greenland,Nuuk,"2,166,086.00","56,025",NA
+GM,GMB,Gambia,Banjul,"11,300.00","2,280,102",AF
+GN,GIN,Guinea,Conakry,"245,857.00","12,414,318",AF
+GP,GLP,Guadeloupe,Basse-Terre,"1,780.00","443,000",NA
+GQ,GNQ,Equatorial Guinea,Malabo,"28,051.00","1,308,974",AF
+GR,GRC,Greece,Athens,"131,940.00","10,727,668",EU
+GS,SGS,South Georgia and South Sandwich Islands,Grytviken,"3,903.00",30,AN
+GT,GTM,Guatemala,Guatemala City,"108,890.00","17,247,807",NA
+GU,GUM,Guam,Hagatna,549,"165,768",OC
+GW,GNB,Guinea-Bissau,Bissau,"36,120.00","1,874,309",AF
+GY,GUY,Guyana,Georgetown,"214,970.00","779,004",SA
+HK,HKG,Hong Kong,Hong Kong,"1,092.00","7,451,000",AS
+HM,HMD,Heard Island and McDonald Islands,,412,0,AN
+HN,HND,Honduras,Tegucigalpa,"112,090.00","9,587,522",NA
+HR,HRV,Croatia,Zagreb,"56,542.00","4,089,400",EU
+HT,HTI,Haiti,Port-au-Prince,"27,750.00","11,123,176",NA
+HU,HUN,Hungary,Budapest,"93,030.00","9,768,785",EU
+ID,IDN,Indonesia,Jakarta,"1,919,440.00","267,663,435",AS
+IE,IRL,Ireland,Dublin,"70,280.00","4,853,506",EU
+IL,ISR,Israel,Jerusalem,"20,770.00","8,883,800",AS
+IM,IMN,Isle of Man,Douglas,572,"84,077",EU
+IN,IND,India,New Delhi,"3,287,590.00","1,352,617,328",AS
+IO,IOT,British Indian Ocean Territory,Diego Garcia,60,"4,000",AS
+IQ,IRQ,Iraq,Baghdad,"437,072.00","38,433,600",AS
+IR,IRN,Iran,Tehran,"1,648,000.00","81,800,269",AS
+IS,ISL,Iceland,Reykjavik,"103,000.00","353,574",EU
+IT,ITA,Italy,Rome,"301,230.00","60,431,283",EU
+JE,JEY,Jersey,Saint Helier,116,"90,812",EU
+JM,JAM,Jamaica,Kingston,"10,991.00","2,934,855",NA
+JO,JOR,Jordan,Amman,"92,300.00","9,956,011",AS
+JP,JPN,Japan,Tokyo,"377,835.00","126,529,100",AS
+KE,KEN,Kenya,Nairobi,"582,650.00","51,393,010",AF
+KG,KGZ,Kyrgyzstan,Bishkek,"198,500.00","6,315,800",AS
+KH,KHM,Cambodia,Phnom Penh,"181,040.00","16,249,798",AS
+KI,KIR,Kiribati,Tarawa,811,"115,847",OC
+KM,COM,Comoros,Moroni,"2,170.00","832,322",AF
+KN,KNA,St Kitts and Nevis,Basseterre,261,"52,441",NA
+KP,PRK,North Korea,Pyongyang,"120,540.00","25,549,819",AS
+KR,KOR,South Korea,Seoul,"98,480.00","51,635,256",AS
+KW,KWT,Kuwait,Kuwait City,"17,820.00","4,137,309",AS
+KY,CYM,Cayman Islands,George Town,262,"64,174",NA
+KZ,KAZ,Kazakhstan,Nur-Sultan,"2,717,300.00","18,276,499",AS
+LA,LAO,Laos,Vientiane,"236,800.00","7,061,507",AS
+LB,LBN,Lebanon,Beirut,"10,400.00","6,848,925",AS
+LC,LCA,Saint Lucia,Castries,616,"181,889",NA
+LI,LIE,Liechtenstein,Vaduz,160,"37,910",EU
+LK,LKA,Sri Lanka,Colombo,"65,610.00","21,670,000",AS
+LR,LBR,Liberia,Monrovia,"111,370.00","4,818,977",AF
+LS,LSO,Lesotho,Maseru,"30,355.00","2,108,132",AF
+LT,LTU,Lithuania,Vilnius,"65,200.00","2,789,533",EU
+LU,LUX,Luxembourg,Luxembourg,"2,586.00","607,728",EU
+LV,LVA,Latvia,Riga,"64,589.00","1,926,542",EU
+LY,LBY,Libya,Tripoli,"1,759,540.00","6,678,567",AF
+MA,MAR,Morocco,Rabat,"446,550.00","36,029,138",AF
+MC,MCO,Monaco,Monaco,1.9,"38,682",EU
+MD,MDA,Moldova,Chisinau,"33,843.00","3,545,883",EU
+ME,MNE,Montenegro,Podgorica,"14,026.00","622,345",EU
+MF,MAF,Saint Martin,Marigot,53,"37,264",NA
+MG,MDG,Madagascar,Antananarivo,"587,040.00","26,262,368",AF
+MH,MHL,Marshall Islands,Majuro,181.3,"58,413",OC
+MK,MKD,North Macedonia,Skopje,"25,333.00","2,082,958",EU
+ML,MLI,Mali,Bamako,"1,240,000.00","19,077,690",AF
+MM,MMR,Myanmar,Nay Pyi Taw,"678,500.00","53,708,395",AS
+MN,MNG,Mongolia,Ulaanbaatar,"1,565,000.00","3,170,208",AS
+MO,MAC,Macao,Macao,254,"631,636",AS
+MP,MNP,Northern Mariana Islands,Saipan,477,"56,882",OC
+MQ,MTQ,Martinique,Fort-de-France,"1,100.00","432,900",NA
+MR,MRT,Mauritania,Nouakchott,"1,030,700.00","4,403,319",AF
+MS,MSR,Montserrat,Plymouth,102,"9,341",NA
+MT,MLT,Malta,Valletta,316,"483,530",EU
+MU,MUS,Mauritius,Port Louis,"2,040.00","1,265,303",AF
+MV,MDV,Maldives,Male,300,"515,696",AS
+MW,MWI,Malawi,Lilongwe,"118,480.00","17,563,749",AF
+MX,MEX,Mexico,Mexico City,"1,972,550.00","126,190,788",NA
+MY,MYS,Malaysia,Kuala Lumpur,"329,750.00","31,528,585",AS
+MZ,MOZ,Mozambique,Maputo,"801,590.00","29,495,962",AF
+NA,NAM,Namibia,Windhoek,"825,418.00","2,448,255",AF
+NC,NCL,New Caledonia,Noumea,"19,060.00","284,060",OC
+NE,NER,Niger,Niamey,"1,267,000.00","22,442,948",AF
+NF,NFK,Norfolk Island,Kingston,34.6,"1,828",OC
+NG,NGA,Nigeria,Abuja,"923,768.00","195,874,740",AF
+NI,NIC,Nicaragua,Managua,"129,494.00","6,465,513",NA
+NL,NLD,Netherlands,Amsterdam,"41,526.00","17,231,017",EU
+NO,NOR,Norway,Oslo,"324,220.00","5,314,336",EU
+NP,NPL,Nepal,Kathmandu,"140,800.00","28,087,871",AS
+NR,NRU,Nauru,Yaren,21,"12,704",OC
+NU,NIU,Niue,Alofi,260,"2,166",OC
+NZ,NZL,New Zealand,Wellington,"268,680.00","4,885,500",OC
+OM,OMN,Oman,Muscat,"212,460.00","4,829,483",AS
+PA,PAN,Panama,Panama City,"78,200.00","4,176,873",NA
+PE,PER,Peru,Lima,"1,285,220.00","31,989,256",SA
+PF,PYF,French Polynesia,Papeete,"4,167.00","277,679",OC
+PG,PNG,Papua New Guinea,Port Moresby,"462,840.00","8,606,316",OC
+PH,PHL,Philippines,Manila,"300,000.00","106,651,922",AS
+PK,PAK,Pakistan,Islamabad,"803,940.00","212,215,030",AS
+PL,POL,Poland,Warsaw,"312,685.00","37,978,548",EU
+PM,SPM,Saint Pierre and Miquelon,Saint-Pierre,242,"7,012",NA
+PN,PCN,Pitcairn Islands,Adamstown,47,46,OC
+PR,PRI,Puerto Rico,San Juan,"9,104.00","3,195,153",NA
+PS,PSE,Palestine,East Jerusalem,"5,970.00","4,569,087",AS
+PT,PRT,Portugal,Lisbon,"92,391.00","10,281,762",EU
+PW,PLW,Palau,Melekeok,458,"17,907",OC
+PY,PRY,Paraguay,Asuncion,"406,750.00","6,956,071",SA
+QA,QAT,Qatar,Doha,"11,437.00","2,781,677",AS
+RE,REU,Réunion,Saint-Denis,"2,517.00","776,948",AF
+RO,ROU,Romania,Bucharest,"237,500.00","19,473,936",EU
+RS,SRB,Serbia,Belgrade,"88,361.00","6,982,084",EU
+RU,RUS,Russia,Moscow,"17,100,000.00","144,478,050",EU
+RW,RWA,Rwanda,Kigali,"26,338.00","12,301,939",AF
+SA,SAU,Saudi Arabia,Riyadh,"1,960,582.00","33,699,947",AS
+SB,SLB,Solomon Islands,Honiara,"28,450.00","652,858",OC
+SC,SYC,Seychelles,Victoria,455,"96,762",AF
+SD,SDN,Sudan,Khartoum,"1,861,484.00","41,801,533",AF
+SE,SWE,Sweden,Stockholm,"449,964.00","10,183,175",EU
+SG,SGP,Singapore,Singapore,692.7,"5,638,676",AS
+SH,SHN,Saint Helena,Jamestown,410,"7,460",AF
+SI,SVN,Slovenia,Ljubljana,"20,273.00","2,067,372",EU
+SJ,SJM,Svalbard and Jan Mayen,Longyearbyen,"62,049.00","2,550",EU
+SK,SVK,Slovakia,Bratislava,"48,845.00","5,447,011",EU
+SL,SLE,Sierra Leone,Freetown,"71,740.00","7,650,154",AF
+SM,SMR,San Marino,San Marino,61.2,"33,785",EU
+SN,SEN,Senegal,Dakar,"196,190.00","15,854,360",AF
+SO,SOM,Somalia,Mogadishu,"637,657.00","15,008,154",AF
+SR,SUR,Suriname,Paramaribo,"163,270.00","575,991",SA
+SS,SSD,South Sudan,Juba,"644,329.00","8,260,490",AF
+ST,STP,São Tomé and Príncipe,Sao Tome,"1,001.00","197,700",AF
+SV,SLV,El Salvador,San Salvador,"21,040.00","6,420,744",NA
+SX,SXM,Sint Maarten,Philipsburg,21,"40,654",NA
+SY,SYR,Syria,Damascus,"185,180.00","16,906,283",AS
+SZ,SWZ,Eswatini,Mbabane,"17,363.00","1,136,191",AF
+TC,TCA,Turks and Caicos Islands,Cockburn Town,430,"37,665",NA
+TD,TCD,Chad,N'Djamena,"1,284,000.00","15,477,751",AF
+TF,ATF,French Southern Territories,Port-aux-Francais,"7,829.00",140,AN
+TG,TGO,Togo,Lome,"56,785.00","7,889,094",AF
+TH,THA,Thailand,Bangkok,"514,000.00","69,428,524",AS
+TJ,TJK,Tajikistan,Dushanbe,"143,100.00","9,100,837",AS
+TK,TKL,Tokelau,,10,"1,466",OC
+TL,TLS,Timor-Leste,Dili,"15,007.00","1,267,972",OC
+TM,TKM,Turkmenistan,Ashgabat,"488,100.00","5,850,908",AS
+TN,TUN,Tunisia,Tunis,"163,610.00","11,565,204",AF
+TO,TON,Tonga,Nuku'alofa,748,"103,197",OC
+TR,TUR,Turkey,Ankara,"780,580.00","82,319,724",AS
+TT,TTO,Trinidad and Tobago,Port of Spain,"5,128.00","1,389,858",NA
+TV,TUV,Tuvalu,Funafuti,26,"11,508",OC
+TW,TWN,Taiwan,Taipei,"35,980.00","22,894,384",AS
+TZ,TZA,Tanzania,Dodoma,"945,087.00","56,318,348",AF
+UA,UKR,Ukraine,Kyiv,"603,700.00","44,622,516",EU
+UG,UGA,Uganda,Kampala,"236,040.00","42,723,139",AF
+UM,UMI,U.S. Minor Outlying Islands,,0,0,OC
+US,USA,United States,Washington,"9,629,091.00","327,167,434",NA
+UY,URY,Uruguay,Montevideo,"176,220.00","3,449,299",SA
+UZ,UZB,Uzbekistan,Tashkent,"447,400.00","32,955,400",AS
+VA,VAT,Vatican City,Vatican City,0.4,921,EU
+VC,VCT,St Vincent and Grenadines,Kingstown,389,"110,211",NA
+VE,VEN,Venezuela,Caracas,"912,050.00","28,870,195",SA
+VG,VGB,British Virgin Islands,Road Town,153,"29,802",NA
+VI,VIR,U.S. Virgin Islands,Charlotte Amalie,352,"106,977",NA
+VN,VNM,Vietnam,Hanoi,"329,560.00","95,540,395",AS
+VU,VUT,Vanuatu,Port Vila,"12,200.00","292,680",OC
+WF,WLF,Wallis and Futuna,Mata Utu,274,"16,025",OC
+WS,WSM,Samoa,Apia,"2,944.00","196,130",OC
+XK,XKX,Kosovo,Pristina,"10,908.00","1,845,300",EU
+YE,YEM,Yemen,Sanaa,"527,970.00","28,498,687",AS
+YT,MYT,Mayotte,Mamoudzou,374,"159,042",AF
+ZA,ZAF,South Africa,Pretoria,"1,219,912.00","57,779,622",AF
+ZM,ZMB,Zambia,Lusaka,"752,614.00","17,351,822",AF
+ZW,ZWE,Zimbabwe,Harare,"390,580.00","14,439,018",AF

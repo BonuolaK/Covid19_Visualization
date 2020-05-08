@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Data Visualization Project</title>
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+   <link rel="stylesheet" href="jVector/jquery-jvectormap.css" type="text/css" media="screen"/>
+
+  <script
+  src="https://code.jquery.com/jquery-3.5.0.min.js"
+  integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ="
+  crossorigin="anonymous"></script>
+   <script src="jVector/jquery-jvectormap-2.0.5.min.js"></script>
+ <script src="jVector/jquery-jvectormap-world-mill.js"></script> 
+
+<style>
+  svg{
+    border: 1px solid;
+    margin-bottom: 20px
+  }
+  .axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
+span.legend {
+    display: inline-block;
+    padding: 3px 6px;
+    margin: 3px;
+    font-weight: bold;
+    color: #fff;
+}
+</style>
+
+  </head>
+  <body>
+
+  <div style="
+    position: absolute;
+    top: 20px;
+    z-index: 300;
+    right: 20px;
+">
+    <select id="ddlWorldStats" title="Filter Visualization Type" class="form-control" style="margin-bottom:10px">
+      <option value="CASES" selected>Total Cases</option>
+       <option value="NEW_CASES">New Cases</option>
+      <option value="DEATHS">Total Deaths</option>
+      <option value="RECOVERY">Total Recoveries</option>
+    </select>
+
+
+    <input type="text" onfocus="(this.type='date')" onblur="(this.type='text')" placeholder="Filter Start Date" class="form-control" id="txtWorldStartDate" style="margin-bottom:10px"/>
+    <input type="text" onfocus="(this.type='date')" onblur="(this.type='text')" placeholder="Filter End Date" class="form-control" id="txtWorldEndDate" style="margin-bottom:10px"/>
+
+
+   <button class="btn btn-danger" id="btnWorldClearFilter">Clear</button>
+
+  </div>
+  <div id="div_world_map" style="width: 100%; height:570px"></div>
+
+
+    <div class="container">
+
+<div class="row">
+   <div class="col-sm-12 text-center"><h2 style="margin-bottom:15px;display: block;">Australia Covid 19 Visual Report</b></div>
+</div>
+
+      <div class="panel panel-default">
+
+        <div class="panel-heading">
+           <div class="row">
+              
+          <div class="col-sm-2">
+            <select id="ddlCasesWorld" class="form-control" multiple>
+               <option value="WORLD" selected>World</option>
+              <option value="NZL">New Zealand</option>
+              <option value="IDN">Indonesia</option>
+              <option value="PNG">Papua New Guinea</option>
+            </select>
+          </div>
+
+           <div class="col-sm-4">
+               
+                <input class="form-control" id="inputStartDate" type="text" onfocus="(this.type='date')" onblur="(this.type='text')" placeholder="Filter Start Date" style="margin-bottom: 10px">
+
+                  <input class="form-control" id="inputEndDate" type="text" onfocus="(this.type='date')" onblur="(this.type='text')" placeholder="Filter End Date">
+              </div>
+
+                <div class="col-sm-4 text-left">
+               
+               <button class="btn btn-primary" id="btnFilter">Filter Results</button>
+
+               <button class="btn btn-danger" id="btnClearFilter">Clear Filter</button>
+              </div>
+            
+        </div>
+        </div>
+
+        <div class="panel-body">
+
+          <div class="row">
+             <div class="col-sm-12">
+                <h4>Cases Over Time</h4>
+                <svg style="width:100%;height: 400px" id="svgCases"></svg>
+
+             </div>
+
+             <div class="col-sm-12">
+               <h4>New Cases Over Time</h4>
+
+               <svg style="width:100%;height: 400px" id="svgNewCases"></svg>
+             </div>
+          </div>
+
+
+           <div class="row">
+             <div class="col-sm-12">
+                <h4>Death Over Time</h4>
+                <svg style="width:100%;height: 400px" id="svgDeath"></svg>
+             </div>
+
+          <div class="col-sm-12">
+                <h4>Mortality Rate Over Time (Death/Infected)%</h4>
+                <svg style="width:100%;height: 400px" id="svgMortality"></svg>
+             </div>
+          </div>
+
+
+
+        </div>
+
+      </div>
+
+      
+
+    </div>
+    
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+      <script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+       <script src="js/moment.js" type="text/javascript"></script>
+
+      <script src="js/utils.js" type="text/javascript"></script>
+      <script src="js/main.js" type="text/javascript"></script>
+      <script src="js/chart.js" type="text/javascript"></script>
+
+  </body>
+</html>
